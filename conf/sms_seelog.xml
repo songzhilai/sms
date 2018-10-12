@@ -1,0 +1,14 @@
+<seelog>
+    <outputs formatid="main">
+        <filter levels="info,debug,critical,error">
+            <console />
+        </filter>
+        <filter levels="info,critical,error">
+            <file path="log/smssrv.log"/>
+        </filter>
+    </outputs>
+
+    <formats>
+        <format id="main" format="%Date %Time [%Level] (%File %FuncShort %Line) %Msg%n"/>
+    </formats>
+</seelog>

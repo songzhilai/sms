@@ -1,0 +1,1 @@
+使用说明：1、修改配置： 打开smssrv.ini 	<1、excelname 为excel文件名称，excel格式请看test.xlsx文件	<2、excelSheetname  为excel下面的tab标签的名称，多个标签用英文逗号隔开	<3、smswxnum 为所需要发送短信的内容,短信模板：尊敬的{1}, 您退休有啥疑问咨询问题{2}，该参数是替换{2}的内容2、excel文件放至conf下面3、双击电脑系统对应的sendsmssrv 文件，执行完成回在相对目录下生成log文件，发送信息请看log日志

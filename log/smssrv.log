@@ -1,0 +1,14 @@
+2018-10-12 19:33:58 [Info] (server.go Start 55) Starting  smssrv version 1.0.2
+2018-10-12 19:33:58 [Error] (sms.go startSms 42) sheet:Sheet1的格式不对，不在短信发送范围内
+2018-10-12 19:33:58 [Error] (sms.go SendSms 89) 宋志来 发送失败短信/语音内容中含敏感词
+2018-10-12 19:33:58 [Error] (sms.go SendSms 89) 胡昌勇 发送失败短信/语音内容中含敏感词
+2018-10-12 19:34:29 [Info] (server.go Start 55) Starting  smssrv version 1.0.2
+2018-10-12 19:34:29 [Error] (sms.go startSms 42) sheet:Sheet1的格式不对，不在短信发送范围内
+2018-10-12 19:34:30 [Info] (sms.go SendSms 91) 宋志来 :13419520630 发送成功
+2018-10-12 19:34:30 [Info] (sms.go SendSms 91) 胡昌勇 :18566771330 发送成功
+2018-10-12 19:48:40 [Info] (server.go Start 55) Starting  smssrv version 1.0.2
+2018-10-12 19:48:40 [Error] (sms.go startSms 42) sheet:Sheet1的格式不对，不在短信发送范围内
+2018-10-12 19:48:40 [Error] (sms.go SendSms 89) 宋志来 发送失败手机号1小时频率限制
+2018-10-12 19:57:07 [Info] (server.go Start 55) Starting  smssrv version 1.0.2
+2018-10-12 19:57:07 [Error] (sms.go startSms 42) sheet:Sheet1的格式不对，不在短信发送范围内
+2018-10-12 19:57:07 [Error] (sms.go SendSms 89) 宋志来 发送失败手机号1小时频率限制
